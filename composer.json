@@ -17,7 +17,7 @@
     },	
     "autoload": {	
     "psr-4": {	
-    "Chanchangg\\MyPackage\\": "src/"	
+    "Chanchangg\\Mypackage\\": "src/"	
     }	
     },	
     "autoload-dev": {	
