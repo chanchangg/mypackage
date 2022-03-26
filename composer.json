@@ -1,0 +1,34 @@
+{	
+    name: "chanchangg/myPackage",	
+    description: "mypackage",	
+    keywords: [	
+    mypackage	
+    ],	
+    authors: [	
+    {	
+    name: "foostart",	
+    email: "foostart.com@gmail.com"	
+    }	
+    ],	
+    license: "MIT",	
+    require: {	
+    },	
+    require-dev: {	
+    },	
+    autoload: {	
+    psr-4: {	
+    Chanchangg\\MyPackage\\: "src/"	
+    }	
+    },	
+    autoload-dev: {	
+    classmap: [	
+        
+    ]	
+    },	
+    scripts: {	
+    },	
+    minimum-stability: "dev",	
+    config: {	
+    preferred-install: "dist"	
+    }	
+    }	
