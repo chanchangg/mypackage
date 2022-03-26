@@ -1,34 +1,34 @@
 {	
-    name: "chanchangg/myPackage",	
-    description: "mypackage",	
-    keywords: [	
-    mypackage	
+    "name": "chanchangg/myPackage",	
+    "description": "mypackage",	
+    "keywords": [	
+    "mypackage"	
     ],	
-    authors: [	
+    "authors": [	
     {	
-    name: "foostart",	
-    email: "foostart.com@gmail.com"	
+    "name": "foostart",	
+    "email": "foostart.com@gmail.com"	
     }	
     ],	
-    license: "MIT",	
-    require: {	
+    "license": "MIT",	
+    "require": {	
     },	
-    require-dev: {	
+    "require-dev": {	
     },	
-    autoload: {	
-    psr-4: {	
-    Chanchangg\\MyPackage\\: "src/"	
+    "autoload": {	
+    "psr-4": {	
+    "Chanchangg\\MyPackage\\": "src/"	
     }	
     },	
-    autoload-dev: {	
-    classmap: [	
+    "autoload-dev": {	
+    "classmap": [	
         
     ]	
     },	
-    scripts: {	
+    "scripts": {	
     },	
-    minimum-stability: "dev",	
-    config: {	
-    preferred-install: "dist"	
+    "minimum-stability": "dev",	
+    "config": {	
+    "preferred-install": "dist"	
     }	
     }	
